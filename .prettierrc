@@ -1,0 +1,14 @@
+{
+  "printWidth": 80,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "arrowParens": "avoid",
+  "proseWrap": "always",
+  "editor.formatOnSave": true,
+  "editor.formatOnBlur": true,
+  "editor.formatOnSaveMode": "modifications",
+  "editor.formatOnSaveTimeout": 750
+}
